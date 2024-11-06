@@ -54,7 +54,6 @@ const app =()=> {
 
   return (
     <div className="app">
-      <h5>https://github.com/MohamedMami/todo-list  </h5>
       <h1>TODO APP</h1>
       <div className="input-container">
         <input type="text" 
