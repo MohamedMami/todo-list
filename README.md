@@ -1,1 +1,1 @@
-a simply todo_list app with react js 
+a simple todo_list app with react js 
